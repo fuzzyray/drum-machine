@@ -1,0 +1,14 @@
+body {
+  background-color: #212121;
+  min-height: 100vh;
+  color: #ffffff;
+}
+
+#drum-machine {
+  padding-top: 2rem;
+  background-image: url(https://www.minecraft.net/content/dam/games/minecraft/screenshots/explore.png);
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: center;
+  background-origin: padding-box;
+}
